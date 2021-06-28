@@ -1,0 +1,12 @@
+{
+  "name": "stripe-pagamento",
+  "displayName": "stripe-pagamento",
+  "expo": {
+    "name": "stripe-pagamento",
+    "slug": "stripe-pagamento",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
